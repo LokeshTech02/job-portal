@@ -16,6 +16,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "is-empty": "^1.2.0",
+    "jekyll": "^3.0.0-beta1",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^5.11.11",
     "multer": "^1.4.2",
