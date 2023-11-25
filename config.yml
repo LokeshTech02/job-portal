@@ -1,2 +1,4 @@
 name: My Site
 theme: minima
+exclude:
+  - "frontend/node_modules/@typescript-eslint/eslint-plugin/docs/rules/consistent-type-assertions.md"
